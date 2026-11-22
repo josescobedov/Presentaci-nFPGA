@@ -1,5 +1,7 @@
 # Documentación de referencia local y borradores (no publicar en el repositorio)
 *.pdf
+!presentacion_campus.pdf
+!cartillas_ponente_bn.pdf
 *.pptx
 AGENTS.md
 
