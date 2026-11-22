@@ -1,0 +1,10 @@
+# Documentación de referencia local y borradores (no publicar en el repositorio)
+*.pdf
+*.pptx
+AGENTS.md
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
